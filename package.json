@@ -1,5 +1,5 @@
 {
-  "name": "authme-render-solution",
+  "name": "authenticate-me-long-practice",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -13,15 +13,7 @@
     "start": "npm start --prefix backend",
     "build": "npm run build --prefix backend"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/flow-state-15/render-test.git"
-  },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/flow-state-15/render-test/issues"
-  },
-  "homepage": "https://github.com/flow-state-15/render-test#readme"
+  "license": "ISC"
 }
